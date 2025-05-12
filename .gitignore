@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+*.root
+*.pdf
+*.png
+*.json
+*.out
+
+# ignore ALL files in the build directory
